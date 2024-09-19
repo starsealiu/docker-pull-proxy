@@ -1,1 +1,9 @@
-confluentinc/ksqldb-server:0.29.0 registry.cn-beijing.aliyuncs.com/ijx-public/ksqldb-server:0.29.0
+ubuntu/squid:latest crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/squid:latest
+langgenius/dify-sandbox:0.2.6 crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/dify-sandbox:0.2.6
+postgres:15-alpine crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/postgres:15-alpine
+langgenius/dify-api:0.6.15 crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/dify-api:0.6.15
+langgenius/dify-web:0.6.15 crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/dify-web:0.6.15
+opensearchproject/opensearch:latest crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/opensearch:latest
+semitechnologies/weaviate:1.19.0 crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/weaviate:1.19.0
+nginx:latest crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/nginx:latest
+redis:6-alpine crpi-vzks8uxagssp84ay.cn-shanghai.personal.cr.aliyuncs.com/ai-dify/redis:6-alpine
